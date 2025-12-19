@@ -37,7 +37,6 @@ import 'package:geideapay/transaction/authentication_transaction_manager.dart';
 import 'package:geideapay/transaction/pay_transaction_manager.dart';
 import 'package:geideapay/widgets/checkout/checkout_options.dart';
 import 'package:geideapay/widgets/checkout/credit_card_screen.dart';
-import 'package:url_launcher/url_launcher.dart';
 import 'dart:convert';
 
 import '../widgets/hpp/hpp_checkout.dart';
